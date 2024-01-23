@@ -1,0 +1,52 @@
+momentum is 7.12773e-11
+momentum is 7.12735e-11
+momentum is 7.12112e-11
+momentum is 7.12217e-11
+momentum is 7.12529e-11
+momentum is 7.12773e-11
+momentum is 7.12735e-11
+momentum is 7.12112e-11
+momentum is 7.12217e-11
+momentum is 7.12529e-11
+momentum is 7.12773e-11
+momentum is 7.12735e-11
+momentum is 7.12773e-11
+momentum is 7.12735e-11
+momentum is 7.12112e-11
+momentum is 7.12217e-11
+momentum is 7.12529e-11
+momentum is 7.12773e-11
+momentum is 7.12735e-11
+7.12773e-11
+7.12735e-11
+7.12112e-11
+7.12217e-11
+7.12529e-11
+7.12773e-11
+Momentum: 7.12773e-11
+Momentum: 7.12735e-11
+Momentum: 7.12112e-11
+Momentum: 7.12217e-11
+Momentum: 7.12529e-11
+Momentum: 7.12773e-11
+Momentum: 7.12773e-11
+Momentum: 7.12735e-11
+Momentum: 7.12112e-11
+Momentum: 7.12217e-11
+Momentum: 7.12529e-11
+Momentum: 7.12773e-11
+Momentum: 7.12735e-11
+Momentum: 7.12112e-11
+Momentum: 7.12217e-11
+Momentum: 7.12529e-11
+Momentum: 7.12773e-11
+Momentum: 7.12735e-11
+Momentum: 7.12112e-11
+Momentum: 7.12217e-11
+Momentum: 7.12529e-11
+Momentum: 7.12773e-11
+Momentum: 7.12773e-11
+Momentum: 7.12735e-11
+Momentum: 7.12112e-11
+Momentum: 7.12217e-11
+Momentum: 7.12529e-11
